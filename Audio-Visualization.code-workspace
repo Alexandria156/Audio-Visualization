@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "${workspaceRoot}/../../../../libs/openFrameworks"
+		},
+		{
+			"path": "${workspaceRoot}/../../../../../Documents/openFrameworks/addons/ofxGui"
+		},
+		{
+			"path": "${workspaceRoot}/../../../../../Documents/openFrameworks/addons/ofxOpenCv"
+		},
+		{
+			"path": "${workspaceRoot}/../../../../../Documents/openFrameworks/addons/ofxUnitTests"
+		}
+	],
+	"openFrameworksProjectGeneratorVersion": "0.103.0",
+	"settings": {}
+}
